@@ -1,3 +1,7 @@
+simplify the location of the index and css files so that its easier to use it on the server... 
+
+
+
 
 add seo allow  stuff
 
