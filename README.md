@@ -9,6 +9,10 @@ fonts
 img
 
 
+sudo rm index.html /styles /scripts /img 
+
+
+
 sudo cp website-Yo/app/index.html index.html
 
 sudo cp -R website-Yo/app/styles/ styles/

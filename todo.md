@@ -1,6 +1,11 @@
 simplify the location of the index and css files so that its easier to use it on the server... 
 
 
+add meta tags. 
+
+add articles by dad. 
+
+show more articles upon clicking, othersie hide all fo them, use accordian. 
 
 
 add seo allow  stuff
