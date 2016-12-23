@@ -1,4 +1,3 @@
-cp app/index.html ../index2.html
 
 
 sudo rm -rf ../index.html ../styles/ ../scripts/ ../img/ ../fonts/
