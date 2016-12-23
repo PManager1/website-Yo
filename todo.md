@@ -1,4 +1,7 @@
 
+It has to be via the BLOG folder..
+
+
 
 simplify the location of the index and css files so that its easier to use it on the server... 
 
