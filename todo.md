@@ -1,4 +1,7 @@
+upon clickign LTg top left - it shoudl go to localhost:/  
 
+
+===============
 It has to be via the BLOG folder..
 
 
